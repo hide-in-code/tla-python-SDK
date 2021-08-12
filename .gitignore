@@ -1,0 +1,7 @@
+__pycache__
+__init__.pyc
+.DS_Store
+dist
+testinlabel.egg-info
+.qiniu*
+.idea
